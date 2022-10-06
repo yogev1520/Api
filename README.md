@@ -1,3 +1,0 @@
-# pytonPro.worktrees 
-
-redmeFile
